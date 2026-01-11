@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "7DHn6Gu/RyWaUB8PXU60Zylbx2Nx2Qba1wmwmsAeebc=",
+  "Source": "NotatnikAPI",
+  "BasePath": "_content/NotatnikAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NotatnikAPI/wwwroot",
+      "Source": "NotatnikAPI",
+      "ContentRoot": "/Users/marcin-mac/RiderProjects/NotatnikAPI/wwwroot/",
+      "BasePath": "_content/NotatnikAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/marcin-mac/RiderProjects/NotatnikAPI/wwwroot/index.html",
+      "SourceId": "NotatnikAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/marcin-mac/RiderProjects/NotatnikAPI/wwwroot/",
+      "BasePath": "_content/NotatnikAPI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/marcin-mac/RiderProjects/NotatnikAPI/wwwroot/main.js",
+      "SourceId": "NotatnikAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/marcin-mac/RiderProjects/NotatnikAPI/wwwroot/",
+      "BasePath": "_content/NotatnikAPI",
+      "RelativePath": "main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/main.js"
+    }
+  ]
+}

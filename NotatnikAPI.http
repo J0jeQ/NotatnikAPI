@@ -1,6 +1,0 @@
-@NotatnikAPI_HostAddress = http://localhost:5120
-
-GET {{NotatnikAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/marcin-mac/RiderProjects/NotatnikAPI/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/marcin-mac/RiderProjects/NotatnikAPI/wwwroot/main.js",
+      "PackagePath": "staticwebassets/main.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.NotatnikAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.NotatnikAPI.props",
+      "PackagePath": "build\\NotatnikAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.NotatnikAPI.props",
+      "PackagePath": "buildMultiTargeting\\NotatnikAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.NotatnikAPI.props",
+      "PackagePath": "buildTransitive\\NotatnikAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
